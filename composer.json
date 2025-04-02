@@ -11,14 +11,14 @@
   ],
   "require": {
     "php": ">=7.0",
-    "illuminate/database": ">=5.5",
-    "illuminate/routing": ">=5.5",
-    "illuminate/support": ">=5.5",
-    "illuminate/console": ">=5.5",
-    "illuminate/encryption": ">=5.5",
-    "bnbwebexpertise/php-uuid": ">=0.0.2",
-    "doctrine/dbal": "~2.5|^3.0",
-    "nesbot/carbon": "^1.20 || ^2.0 || ^3"
+    "illuminate/database": "*",
+    "illuminate/routing": "*",
+    "illuminate/support": "*",
+    "illuminate/console": "*",
+    "illuminate/encryption": "*",
+    "bnbwebexpertise/php-uuid": "*",
+    "doctrine/dbal": "*",
+    "nesbot/carbon": "*"
   },
   "require-dev": {
     "laravel/framework": ">=5.5"
